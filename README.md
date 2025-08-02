@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Majeed Abdul-Razak</h1>
 <h3 align="center">A passionate data science enthusiast from Berlin, Germany</h3>
 
-- 🔭 I’m currently studying MSc Project Manangement and Data Science at HTW-Berlin in an MSc. I'm in my 3rd Semester.
-- 🔭 I’m currently working on projects related to building models in **Computer Vision and LLM.
+- 🔭 I studied MSc Project Manangement and Data Science at HTW-Berlin in an MSc. 
+- 🔭 I'm working on projects related to **Computer Vision, LLM, Cloud computing and Data Engineering.
 
 - 👯 I’m looking to collaborate on **presented data science projects or opened to other projects**
 
